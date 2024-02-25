@@ -43,7 +43,7 @@ public class UserMovieSeats2 extends HttpServlet {
             dispatcher.forward(request, response);
         } catch (SQLException e) {
             e.printStackTrace();
-            response.getWriter().println("Internal Server Error");
+            response.getWriter().println("Internal Server Error.");
         }
     }
 }
