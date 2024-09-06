@@ -134,7 +134,7 @@ Update ConnectionUtil Class:
 - Locate the ConnectionUtil class in your project.
 
 - Update the database connection parameters to match your setup:
-public class ConnectionUtil {
+/npublic class ConnectionUtil {
 	String jdbcUrl = "jdbc:postgresql://localhost:5432/TicketBooking";
         String username = "postgres";
         String password = "user";
