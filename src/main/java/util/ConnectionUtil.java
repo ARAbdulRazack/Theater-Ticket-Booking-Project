@@ -6,7 +6,7 @@ public class ConnectionUtil {
 
 	public static Connection getConnection() {
 
-		String jdbcUrl = "jdbc:postgresql://localhost:5432/student";
+		String jdbcUrl = "jdbc:postgresql://localhost:5432/TicketBooking";
         String username = "postgres";
         String password = "user";
 
