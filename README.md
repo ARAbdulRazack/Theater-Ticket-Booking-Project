@@ -133,9 +133,9 @@ INSERT INTO "user" (name, password, phone_number, is_admin, is_owner) VALUES
 Update ConnectionUtil Class:
 - Locate the ConnectionUtil class in your project.
 
-Update the database connection parameters to match your setup:
+- Update the database connection parameters to match your setup:
 public class ConnectionUtil {
-		    String jdbcUrl = "jdbc:postgresql://localhost:5432/TicketBooking";
+	String jdbcUrl = "jdbc:postgresql://localhost:5432/TicketBooking";
         String username = "postgres";
         String password = "user";
 }
