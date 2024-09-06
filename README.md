@@ -159,6 +159,6 @@ Note: Replace 8080 with the port configured for your Tomcat server if it's diffe
 - Owner: Can create admins, theaters, and movies. Can also book tickets, view showtimes, and manage all showtimes and theaters.
 
 ## Usage
+- We can Signin and login in this web application.
 - View Theater Name, Movie Name, Showtime, Showdate, Cost of 1 Ticket, Available Tickets Count, Booked Tickets
-- We can Sign in wih=th new user.
 - The movie, theater, showtime, cost everything can be created and deleted.
